@@ -1,6 +1,6 @@
 # 📊 Inventário de Computadores – Aplicação Web (PHP + SQL)
 
-Este projeto consiste no desenvolvimento de uma aplicação web para a gestão e consulta de inventário de equipamentos informáticos em salas escolares. A aplicação permite o controlo centralizado de hardware, software e intervenções técnicas.
+Este projeto consiste no desenvolvimento de uma aplicação web para a gerir e consultar de inventário de equipamentos informáticos em salas aulas,com o objetivo de adicionar salas,tecnicos,equipamentos e intervenções e geri-los.
 
 ---
 
@@ -16,7 +16,6 @@ Este projeto consiste no desenvolvimento de uma aplicação web para a gestão e
 O principal objetivo é facilitar a manutenção e o controlo dos equipamentos das salas de informática. Através da interface web, os utilizadores podem:
 - Consultar equipamentos por sala.
 - Visualizar características técnicas detalhadas.
-- Verificar o software instalado em cada máquina.
 - Gerir intervenções técnicas realizadas.
 
 ---
@@ -40,7 +39,7 @@ O projeto está organizado da seguinte forma:
 
 - ✅ **Ligação à Base de Dados:** Utilização de PHP com MySQLi/PDO.
 - ✅ **Dashboard Estatístico:** Resumo automático de salas, equipamentos e intervenções.
-- ✅ **Gestão de Inventário:** Listagem e detalhe de equipamentos por sala.
+- ✅ **Gestão de Inventário:** Lista e detalhes de equipamentos por sala.
 - ✅ **Pesquisa Avançada:** Filtros por nome de computador e software.
 - ✅ **Interface Moderna:** Design responsivo com suporte a **Modo Escuro (Dark Mode)**.
 - ✅ **Otimização (Debounce):** Melhoria na performance das pesquisas.
@@ -63,7 +62,7 @@ A base de dados `if0_40156192_prova` é composta pelas seguintes tabelas princip
 
 ---
 
-## 🤖 Utilização de IA e Desenvolvimento
+## 🤖 Utilização de IA no desenvolvimento
 
 Neste projeto, a Inteligência Artificial foi utilizada como ferramenta de apoio para:
 - **Interface Gráfica:** Melhorias visuais e implementação do modo escuro.
