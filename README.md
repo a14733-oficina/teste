@@ -77,15 +77,5 @@ Neste projeto, a Inteligência Artificial foi utilizada como ferramenta de apoio
 
 ---
 
-## 🚀 Como Executar o Projeto
-
-1. Clone este repositório.
-2. Importe o ficheiro `sql/database.sql` para o seu servidor MySQL.
-3. Configure as credenciais de acesso em `src/config/ligacao.php`.
-4. Coloque a pasta `src` no seu servidor local (XAMPP, WAMP, etc.).
-5. Aceda via browser através de `localhost/nome-da-pasta`.
-
----
-
 ## 🔗 Demonstração Online
 https://a14733-oficina.infinityfree.me/teste/index.php
