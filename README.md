@@ -58,7 +58,6 @@ A base de dados `if0_40156192_prova` é composta pelas seguintes tabelas princip
 | `tecnicos` | Informações de contacto da equipa técnica. |
 | `intervencoes` | Histórico de manutenções realizadas nos equipamentos. |
 
-> **Nota:** O script completo para recriar a base de dados encontra-se em [`/sql/database.sql`](./sql/database.sql).
 
 ---
 
